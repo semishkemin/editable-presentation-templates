@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "title": "Workshop timeline",
+    "subtitle": "Four stages of a learning activity",
+    "background": "F6F3ED",
+    "palette": ["5B4BDB", "007F82", "BB4B35", "315ED1"]
+  },
+  "items": [
+    {"label": "10 MIN", "title": "Introduction", "description": "Introduce the topic and invite initial questions."},
+    {"label": "20 MIN", "title": "Activity", "description": "Work together on a focused learning task."},
+    {"label": "15 MIN", "title": "Discussion", "description": "Compare ideas and discuss different approaches."},
+    {"label": "5 MIN", "title": "Reflection", "description": "Record one insight and one useful next step."}
+  ]
+}
